@@ -22,7 +22,7 @@
 
 <div>
 
-|🔩 Part|🛠 Stacks 🛠|
+|🔩 Part|⚙ Stacks ⚙|
 |:---:|:---:|
 |📃 Code| <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> | 
 |🛠 Tech| <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=Gradle&logoColor=white">|
@@ -35,15 +35,23 @@
 
 <h3>Front End</h3>
 <p align=>
-<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
+<a href="https://github.com/kkh9960"><img src="https://img.shields.io/badge/GITHUB-61DAFB?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/kkh9960"/></a>
+<br>
 <img src="https://img.shields.io/badge/조광익-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<a href="https://github.com/kkh9960"><img src="https://img.shields.io/badge/GITHUB-61DAFB?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/kkh9960"/></a>
 <img src="https://img.shields.io/badge/이중오-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/박성우-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <h3>Back End</h3>
 <p align=>
 <img src="https://img.shields.io/badge/김용문-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/방주은-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/김장원-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <h3>Design</h3>
 <p align=>
 <img src="https://img.shields.io/badge/서보영-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
