@@ -27,9 +27,10 @@
 |📃 Code| <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> | 
 |🛠 Tech| <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=Gradle&logoColor=white">|
 |💾 DB| <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">|
-|⚙️ Tool| <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira%20Software&logoColor=white"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"><img src="https://img.shields.io/badge/SSL-F68212?style=for-the-badge&logo=Open%20Access&logoColor=white">|
+|⚙️ Tool| <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira%20Software&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/SSL-F68212?style=for-the-badge&logo=Open%20Access&logoColor=white">|
 |🔍 Cloud| <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">|
-|🐧 OS | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
+|🐧 OS | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">|
+|🎨 Design | <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black"> <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=black"> |
 
 </div>
 
@@ -39,20 +40,28 @@
 <a href="https://github.com/kkh9960"><img src="https://img.shields.io/badge/GITHUB-61DAFB?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/kkh9960"/></a>
 <br>
 <img src="https://img.shields.io/badge/조광익-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<a href="https://github.com/kkh9960"><img src="https://img.shields.io/badge/GITHUB-61DAFB?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/kkh9960"/></a>
+<a href="https://github.com/cho-light"><img src="https://img.shields.io/badge/GITHUB-61DAFB?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/cho-light"/></a>
+<br>
 <img src="https://img.shields.io/badge/이중오-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<a href="https://github.com/jnwnddh"><img src="https://img.shields.io/badge/GITHUB-61DAFB?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/jnwnddh"/></a>
+<br>
 <img src="https://img.shields.io/badge/박성우-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<a href="https://github.com/seongwoo9156"><img src="https://img.shields.io/badge/GITHUB-61DAFB?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/seongwoo9156"/></a>
+
 <h3>Back End</h3>
 <p align=>
+
 <img src="https://img.shields.io/badge/김용문-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<a href="https://github.com/dydrkflqmdl"><img src="https://img.shields.io/badge/GITHUB-6DB33F?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/dydrkflqmdl"/></a>
+<br>
 <img src="https://img.shields.io/badge/방주은-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<a href="https://github.com/jueun330"><img src="https://img.shields.io/badge/GITHUB-6DB33F?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/jueun330"/></a>
+<br>
 <img src="https://img.shields.io/badge/김장원-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/곽규현-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<a href="https://github.com/chunngamm"><img src="https://img.shields.io/badge/GITHUB-6DB33F?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/chunngamm"/></a>
+
 <h3>Design</h3>
 <p align=>
-<img src="https://img.shields.io/badge/서보영-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/서보영-43E55E?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+<a href="https://linktr.ee/vozzang"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white&link=https://linktr.ee/vozzang"/></a>
 <br>
