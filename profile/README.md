@@ -3,8 +3,8 @@
 <h3>여행을 가고싶은데 어디로 갈지 모르겠다면,</h3>
 <h3>밸런스 게임을 통해서 정해보세요!</h3>
 <h4>📆프로젝트 기간 2022.11.04 ~ 2022.12.16</h4>
-👉🏻<a href="https://www.trip-balance.com" target="_blank">트립 밸런스 이용해보기 Click!</a></br>
-👉🏻<a href="https://www.notion.so/Trip-Balance-b7b0145eeea548a488ee8c039e90e30c" target="_blank">트립 밸런스팀 노션 Click!</a>
+👉🏻<a href="https://www.trip-balance.com">트립 밸런스 이용해보기 Click!</a></br>
+👉🏻<a href="https://www.notion.so/Trip-Balance-b7b0145eeea548a488ee8c039e90e30c">트립 밸런스팀 노션 Click!</a>
 
 -------
 
