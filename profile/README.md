@@ -7,7 +7,7 @@
 -------
 
 👉🏻<a href="https://www.trip-balance.com">트립 밸런스 이용해보기 Click!</a></br>
-👉🏻<a href="https://www.notion.so/Trip-Balance-b7b0145eeea548a488ee8c039e90e30c">트립 밸런스팀 노션 Click!</a>
+👉🏻<a href="https://www.notion.so/Trip-Balance-b7b0145eeea548a488ee8c039e90e30c">트립 밸런스팀 노션 Click!</a></br>
 👉🏻<a href="https://github.com/hanghae99-tripbalance/Frontend">Front end git Click!</a></br>
 👉🏻<a href="https://github.com/hanghae99-tripbalance/Backend">Back end git Click!</a>
 
